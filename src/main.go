@@ -9,6 +9,17 @@ const (
 	d
 	e
 )
+var aa int=5
+const bb="xii"
+
+type T struct {
+
+}
+
+func init(){
+	fmt.Println("start initing")
+
+}
 
 func main()  {
 	fmt.Println("hello world")
